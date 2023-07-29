@@ -1,0 +1,20 @@
+.navigation ul li a{
+  text-decoration: none;
+  color: var(--gray);
+}
+
+.navigation{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 8px;
+  height: 72px;
+}
+
+.navigation ul{
+  display: flex;
+  gap: 24px;
+  list-style-type: none;
+  font-weight: 500;
+}
+
+
